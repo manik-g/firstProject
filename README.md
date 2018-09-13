@@ -1,2 +1,0 @@
-# firstProject
-Test Project
